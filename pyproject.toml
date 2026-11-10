@@ -1,0 +1,12 @@
+[project]
+name = "learningpandas"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "aussenseiter-Vs", email = "raissaayra1710@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.1.1",
+]
